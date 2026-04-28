@@ -1,3 +1,46 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700&family=Inter:wght@400;500;600&display=swap');
+
+  body {
+    background-color: #121212; /* Your dark surface background */
+    color: #E0E0E0; /* Clean, legible off-white for paragraphs */
+    font-family: 'Inter', sans-serif; /* Matching your app's UI font */
+    max-width: 800px; /* Keeps the text from stretching too wide on desktop */
+    margin: 0 auto; /* Centers the content */
+    padding: 40px 20px;
+    line-height: 1.6;
+  }
+
+  h1, h2, h3 {
+    color: #D4AF37; /* Magus Forge Gold */
+    font-family: 'Crimson Text', serif; /* Matching your app's Title font */
+    font-weight: 600;
+    margin-top: 2em;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    border-bottom: 1px solid #333;
+    padding-bottom: 20px;
+  }
+
+  a {
+    color: #D4AF37;
+    text-decoration: none;
+    border-bottom: 1px dotted #D4AF37;
+  }
+
+  a:hover {
+    color: #FFF;
+    border-bottom: 1px solid #FFF;
+  }
+
+  strong {
+    color: #FFFFFF; /* Makes bold text pop a bit more */
+  }
+</style>
+
 # Terms of Service for Aevum
 
 **Last Updated:** 04/28/2026
